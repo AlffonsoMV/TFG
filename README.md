@@ -14,4 +14,4 @@ This Final Degree Thesis focuses on a preliminary synthesis of algebraic topolog
 4. Analyzing the long exact sequence of homotopy groups provided by a topological fibration.
 5. Investigating the Hopf fibration to prove that $\pi_3(S^2) = Z$ and the equality of the homotopy groups of $S^2$ and $S^3$ from $\pi_3$.
 
-The thesis provides a compendium of essential theorems, definitions, and proofs in algebraic topology, with a practical and concise approach, omitting supplementary explanatory content.
+The thesis provides a compendium of essential theorems, definitions, and proofs in algebraic topology.
